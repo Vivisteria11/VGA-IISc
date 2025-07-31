@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 3. Create a new file named .env in the main project folder and add your API key.
 
-GEMINI_API_KEY="YOUR_API_KEY_HERE"
+GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 
 4.In your first terminal, start the Flask API server.
 
